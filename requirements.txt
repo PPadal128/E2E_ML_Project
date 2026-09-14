@@ -4,6 +4,7 @@ scikit-learn
 matplotlib
 seaborn
 catboost
-
+xgboost
+lightgbm
 
 #-e . # etare everytime  jetebele ,u pip installing any packages , same time re not reuired and se time re tahaku commentout karidei thiba, and pore tahaku uncomment karidei thiba,
